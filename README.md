@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/victorvuelma?template=classic&isocalendar=1&languages=1&posts=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+
 <!--
 **victorvuelma/victorvuelma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
